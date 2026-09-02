@@ -1,2 +1,1 @@
-FROM crpi-n24y9k7q8zvnwi88.cn-hangzhou.personal.cr.aliyuncs.com/sglang-qwen/sglang-qwen35:v0.5.2-cu126-transformers451
-RUN pip install --no-cache-dir -i https://mirrors.aliyun.com/pypi/simple/ sglang==0.5.10
+FROM crpi-n24y9k7q8zvnwi88.cn-hangzhou.personal.cr.aliyuncs.com/sglang-qwen/sglang-qwen35:v0.5.10
